@@ -10,7 +10,7 @@ Open GBWM.mlx.
 ## **Setup**
 To run:
 
-Directly run GBWM.mlx
+Directly run main.mlx
 
 OR 
 
